@@ -15,6 +15,7 @@ Node 20+, RabbitMQ, MySQL
 Install dependencies
 ```
 npm i
+```
 
 Migrate db (using typeorm)
 ```
